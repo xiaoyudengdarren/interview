@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/EAgoRQ4Tq8=",
+  "success": true,
+  "projectFilePath": "/Users/apple/Desktop/interview_test/TaskManagementSystem/TaskManagementApi/TaskManagementApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
